@@ -1,0 +1,3 @@
+C:/Users/ivanv/CLionProjects/1ex/cmake-build-debug/CMakeFiles/1ex.dir
+C:/Users/ivanv/CLionProjects/1ex/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ivanv/CLionProjects/1ex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
